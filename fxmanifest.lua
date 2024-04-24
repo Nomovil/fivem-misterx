@@ -17,7 +17,6 @@ client_scripts {
 }
 
 server_scripts {
-    "queue.lua",
     "server_events.lua",
     "server_threads.lua"
 }
